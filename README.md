@@ -44,6 +44,12 @@ If you find this tool useful, consider buying me a coffee!
   </a>
 </div>
 
+### 📱 **Scan to Support**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adrianalvird/bypasser/main/bmc-qr.png" alt="Buy Me a Coffee QR Code" width="200"/>
+  <p><em>Scan with your phone to buy me a coffee!</em></p>
+</div>
 ---
 
 ## 📜 License
