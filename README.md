@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🛡️ Bypasser</h1>
+  <h1> Bypasser</h1>
   <p><strong>The Most Powerful Open Source WAF Bypass Tool</strong></p>
   <p>Bypass 4XX Status Codes with Advanced Techniques & Payloads</p>
 
@@ -38,9 +38,9 @@
 ### Via Go Install (Recommended)
 ```bash
 go install github.com/adrianalvird/bypasser/bypasser@v1.0.9
+```
 
-## Usage
-
+## Usage :
 
 ```bash
 echo "http://example.com" | bypasser -verbose
@@ -54,4 +54,4 @@ bypasser -request request.txt
 ```bash
 bypasser -request request.txt -proxy http://127.0.0.1:8080
 
-
+```
