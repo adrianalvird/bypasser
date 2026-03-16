@@ -15,16 +15,46 @@
   </p>
   
   <!-- Social Badge -->
-  <p>
-    <a href="https://github.com/adrianalvird">
-      <img src="https://img.shields.io/badge/Author-@adrianalvird-blue?style=flat&logo=github" alt="Author" />
-    </a>
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/adrianalvird">
-      <img src="https://img.shields.io/badge/Author-@adrianalvird-blue?style=flat&logo=linkedin" alt="Author" />
-    </a>
-  </p>
+  ## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/adrianalvird">
+    <img src="https://img.shields.io/badge/GitHub-@adrianalvird-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/adrianalvird">
+    <img src="https://img.shields.io/badge/LinkedIn-@adrianalvird-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/adrian.alvird">
+    <img src="https://img.shields.io/badge/Instagram-@adrian.alvird-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://x.com/adrianalvird">
+    <img src="https://img.shields.io/badge/X-@adrianalvird-000000?style=for-the-badge&logo=x" alt="X (Twitter)" />
+  </a>
+</div>
+
+---
+
+## 🤝 Support Me
+
+If you find this tool useful, consider buying me a coffee!
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/adrianalvird">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=adrianalvird&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+  </a>
+</div>
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+  <p>Made with ❤️ by <a href="https://github.com/adrianalvird">@adrianalvird</a></p>
+  <p>Version 1.0.9 | © 2024 Bypasser</p>
 </div>
 
 ---
