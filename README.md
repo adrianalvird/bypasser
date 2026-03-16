@@ -1,50 +1,43 @@
-# Features
-1. payloads.go file stored on the tool itself . [ OK ] [ Advanced Payload set ]
-2. Advance Rate Limit Implemented . [ OK ]
-3. Concurrent Request Sending .
+<div align="center">
+  <h1>🛡️ Bypasser</h1>
+  <p><strong>The Most Powerful Open Source WAF Bypass Tool</strong></p>
+  <p>Bypass 4XX Status Codes with Advanced Techniques & Payloads</p>
 
+  <!-- Version Badge -->
+  <img src="https://img.shields.io/badge/version-1.0.9-blue.svg" alt="Version 1.0.9">
+  <img src="https://img.shields.io/badge/go-1.24.2-green.svg" alt="Go 1.24.2">
+  <img src="https://img.shields.io/badge/license-MIT-orange.svg" alt="MIT License">
+  <img src="https://img.shields.io/badge/status-stable-brightgreen.svg" alt="Stable">
 
+  <!-- Typing Effect -->
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Bypass+403%2C+401%2C+404+Like+a+Pro;Advanced+Payload+Collection;Rate+Limiting+%2B+Concurrent+Requests;HTTP%2F3+%2F+HTTP%2F2+%2F+HTTP%2F1.1+Support;Path+%2B+Header+%2B+Protocol+Manipulation" alt="Typing SVG" />
+  </p>
+</div>
 
-# Current Updating status 
-1. advance payloads in payloads.go 
-2. try to compille payloads with the compiled tool or use payloads inside go file . [ OK ]
-3. need to scan from requests.txt file as well . [ many problems inside this ] ..
-4. add static url or something , that will not modified .
-5. Live animated Logo and outfit while this tool start .
-6. This tool should run until it finished  use all type of attack even it bypass , and also use combination attacks ..
-7. concurrent request send .
+---
 
+## ✨ Features
 
+| Category | Techniques |
+|----------|------------|
+| 🔀 **Path Manipulation** | Path traversal, encoding tricks, special characters |
+| 🧠 **Header Injection** | X-Forwarded-For, X-Original-URL, X-Rewrite-URL, Client-IP |
+| 🔄 **Method Manipulation** | GET, POST, PUT, TRACE, OPTIONS, custom methods |
+| 📁 **Extension Injection** | .php, .js, .html, .asp, .aspx, .json |
+| 📡 **Protocol Downgrade** | HTTP/3, HTTP/2, HTTP/1.1, HTTP/1.0, HTTP/0.9 |
+| 🚦 **Rate Limiting** | Dynamic rate adjustment, user-agent rotation |
+| ⚡ **Concurrency** | Multi-worker concurrent requests |
+| 📝 **Request File Support** | Parse captured requests from files |
+| 🔌 **Proxy Support** | HTTP/HTTPS proxy integration |
 
+---
 
+## 🚀 Installation
 
-
-
-# Bypasser Tool
-
-## Features
-- Path manipulation
-- Header injection
-- -- content-length variation
-- -- user-agent rotation
-- -- extra header with values
-- Path capitalization techniques
-- Randomized Capitalization Path 
-- Method Manipulation
-- Extension Manipulation [ from /sso to /sso.php , /sso.html ]
-- Static path 
-- Advance Rate limit feature implement .
-- Request from request.txt file
-- Proxy enabled 
-
-
-
-## Structure
-- `payloads/`: Editable payloads
-- `internal/`: Core logic
-  - `bypass/`: Combines techniques
-  - `techniques/`: Encapsulates each bypass technique
-  - `utils/`: HTTP client, logging, and rate-limiting
+### Via Go Install (Recommended)
+```bash
+go install github.com/adrianalvird/bypasser/bypasser@v1.0.9
 
 ## Usage
 
