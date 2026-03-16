@@ -36,16 +36,17 @@
 
 ## 🤝 Support Me
 
-If you find this tool useful, consider buying me a coffee! Your support keeps this project alive and motivates me to add more awesome features.
-
 <div align="center">
-  <a href="https://www.buymeacoffee.com/adrianalvird">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=adrianalvird&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="250"/>
-  </a>
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/adrianalvird)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/adrianalvird)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-30363D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/adrianalvird)
+
 </div>
 
 <div align="center">
   <p><strong>☕ Every coffee keeps me coding through the night!</strong></p>
+  <p><code>https://www.buymeacoffee.com/adrianalvird</code></p>
 </div>
 ---
 
