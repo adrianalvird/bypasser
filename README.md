@@ -20,6 +20,11 @@
       <img src="https://img.shields.io/badge/Author-@adrianalvird-blue?style=flat&logo=github" alt="Author" />
     </a>
   </p>
+  <p>
+    <a href="https://www.linkedin.com/in/adrianalvird">
+      <img src="https://img.shields.io/badge/Author-@adrianalvird-blue?style=flat&logo=linkedin" alt="Author" />
+    </a>
+  </p>
 </div>
 
 ---
