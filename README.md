@@ -43,11 +43,11 @@ go install github.com/adrianalvird/bypasser/bypasser@v1.0.9
 ## Usage :
 
 ```bash
-echo "http://example.com" | bypasser -verbose
+echo "http://notsecure.in" | bypasser -verbose
 ```
 
 ```bash
-echo "http://example.com" | bypasser -proxy http://127.0.0.1:8080
+echo "http://notsecure.in" | bypasser -proxy http://127.0.0.1:8080
 ```
 
 ```bash
