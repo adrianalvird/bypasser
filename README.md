@@ -36,19 +36,16 @@
 
 ## 🤝 Support Me
 
-If you find this tool useful, consider buying me a coffee!
+If you find this tool useful, consider buying me a coffee! Your support keeps this project alive and motivates me to add more awesome features.
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/adrianalvird">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=adrianalvird&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=adrianalvird&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" width="250"/>
   </a>
 </div>
 
-### 📱 **Scan to Support**
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adrianalvird/bypasser/main/bmc-qr.png" alt="Buy Me a Coffee QR Code" width="200"/>
-  <p><em>Scan with your phone to buy me a coffee!</em></p>
+  <p><strong>☕ Every coffee keeps me coding through the night!</strong></p>
 </div>
 ---
 
