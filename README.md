@@ -44,14 +44,16 @@ go install github.com/adrianalvird/bypasser/bypasser@v1.0.9
 
 ```bash
 echo "http://example.com" | bypasser -verbose
+```
 
 ```bash
 echo "http://example.com" | bypasser -proxy http://127.0.0.1:8080
+```
 
 ```bash
 bypasser -request request.txt
+```
 
 ```bash
 bypasser -request request.txt -proxy http://127.0.0.1:8080
-
 ```
